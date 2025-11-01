@@ -1,0 +1,10 @@
+# Ignore all model folders
+*/model/
+model/
+
+# Ignore weight files and large binaries
+*.weights
+*.h5
+*.ckpt
+*.pt
+*.onnx
